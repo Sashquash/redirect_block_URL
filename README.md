@@ -16,3 +16,8 @@ When you want to block a website do the following code snippet:
 ```
 python3 redirect_block_URL.py -b <blocked URL>
 ```
+
+This can also be found with the 
+```
+python3 redirect_block_URL.py -h
+```
