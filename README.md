@@ -1,10 +1,10 @@
 # redirect_block_URL
 
-A basic python program that can redirect or block URLs locally on your PC. This should work on Unix OS.
+A basic python program that can redirect or block URLs locally on your PC. This should work on all Unix OS systems.
 
 ## How it works
 
-This will add entries to the /etc/hosts files that will either redirect or block a given website. This will need sudo privilege be aware of that. Also for redirecting a URL the code snipped needs a working internet connection.
+The program will add entries to the /etc/hosts file that will either redirect or block a given website. This will need sudo privilege be aware of that. Also for redirecting a URL the code snipped needs a working internet connection.
 
 ## Usage
 
